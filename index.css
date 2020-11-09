@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body{
+    box-sizing: border-box;
+    background-color: black;
+   
+}
+h1, h3{
+    color: white;
+    text-align: center;
+    margin: 0.1rem;
+}
+.btn {
+    background-color: hotpink;
+    border: none;
+    border-radius: 6%;
+    box-shadow: 5%;
+    align-items: center;
+    padding: 10px;
+    margin: 5px;
+}
+.colorGenBtn {
+    display: block;
+    height: 2.8rem;
+    text-align: center;
+}
+.color-item {
+    display: inline-block;
+    width: 100%;
+}
+.color {
+    display: inline-block;
+    width: 16.666%;
+    height: 92vh;
+}
+
+@media screen and (max-width: 600px) {
+    .color {
+      float: none;
+      width: 100%;
+      height: 15vh;
+    }
+  }
