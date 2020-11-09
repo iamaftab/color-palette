@@ -7,10 +7,10 @@
 ---
 
 ## List of Functions:
-   - [createmyElements(tagName, classes, id)](#createmyElement())
-   - [color()](#color())
-   - [colorGenerator()](#colorGenerator())
-   - [rgb2Hex(orig)](#rgb2Hex())
+   - [createmyElements(tagName, classes, id)](#createmyElement)
+   - [color()](#color)
+   - [colorGenerator()](#colorGenerator)
+   - [rgb2Hex(orig)](#rgb2Hex)
 
 ## Functions details:
 
