@@ -14,7 +14,8 @@
 
 ## Functions details:
 
-- ### createmyElements() 
+## createmyElements() 
+
 ```javascript
   /**
  * This is used to create a DOM element
@@ -30,7 +31,9 @@ function createmyElements(tagName, classes, id) {
     return element;
 }
 ```
-- ### color()
+
+## color()
+
 ```javascript
 /**
  * This generate different color palette on buttom click
@@ -46,7 +49,9 @@ function color() {
     }
 }
 ```
-- ### colorGenerator()
+
+## colorGenerator()
+
 ```javascript
 /**
  * RGB color generator
@@ -60,7 +65,9 @@ function colorGenerator() {
     return rgb;
 }
 ```
-- ### rgb2Hex()
+
+## rgb2Hex()
+
 ```javascript
 /**
  * Convert RGB to HEX value of color
