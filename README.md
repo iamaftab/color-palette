@@ -13,7 +13,7 @@
    - [rgb2Hex(orig)](rgb2Hex())
 
 ## Functions details:
----
+
 - ### createmyElements() 
 ```javascript
   /**
