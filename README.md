@@ -1,15 +1,8 @@
 <h1 align="center">Color Palette</h1>
-<<<<<<< HEAD
-=======
-
----
->>>>>>> 4e7b427f70983b6d7505f3fb98dea48e6d7ffeac
-
 ---
 - This is a color picker or color palette generator using simple HTML, CSS & JavaScript.
-
 ---
-<<<<<<< HEAD
+
 ## List of Functions:
    - [createmyElements(tagName, classes, id)](#createmyElement())
    - [color()](#color())
@@ -80,14 +73,3 @@ function rgb2Hex(orig) {
     return hex;
 }
 ```
----
-=======
-
-# List of Functions:
-```javascript
-   - createmyElements(tagName, classes, id)
-   - color()
-   - colorGenerator()
-   - rgb2Hex(orig)
-```
->>>>>>> 4e7b427f70983b6d7505f3fb98dea48e6d7ffeac
