@@ -1,4 +1,6 @@
-<img align="center" src="./color-palette.jpg">
+<p align="center">
+    <img src="./color-palette.jpg">
+</p>
 
 <h1 align="center">Color Palette</h1>
 
