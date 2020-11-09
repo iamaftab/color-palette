@@ -10,7 +10,7 @@
    - [createmyElements(tagName, classes, id)](#createmyElement())
    - [color()](#color())
    - [colorGenerator()](#colorGenerator())
-   - [rgb2Hex(orig)](rgb2Hex())
+   - [rgb2Hex(orig)](#rgb2Hex())
 
 ## Functions details:
 
