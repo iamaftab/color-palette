@@ -2,7 +2,10 @@
 
 <h1 align="center">Color Palette</h1>
 
+[Live Website](https://iamaftabjamil.github.io/color-palette/)
+
 ---
+
 - This is a color picker or color palette generator using simple HTML, CSS & JavaScript.
 
 ---
@@ -12,9 +15,16 @@
    - [colorGenerator()](#colorGenerator())
    - [rgb2Hex(orig)](#rgb2Hex())
 
+## List of Functions:
+   - [createmyElements(tagName, classes, id)](#createmyElement)
+   - [color()](#color)
+   - [colorGenerator()](#colorGenerator)
+   - [rgb2Hex(orig)](#rgb2Hex)
+
 ## Functions details:
----
-- ### createmyElements() 
+
+## createmyElements() 
+
 ```javascript
   /**
  * This is used to create a DOM element
@@ -30,7 +40,9 @@ function createmyElements(tagName, classes, id) {
     return element;
 }
 ```
-- ### color()
+
+## color()
+
 ```javascript
 /**
  * This generate different color palette on buttom click
@@ -46,7 +58,9 @@ function color() {
     }
 }
 ```
-- ### colorGenerator()
+
+## colorGenerator()
+
 ```javascript
 /**
  * RGB color generator
@@ -60,7 +74,9 @@ function colorGenerator() {
     return rgb;
 }
 ```
-- ### rgb2Hex()
+
+## rgb2Hex()
+
 ```javascript
 /**
  * Convert RGB to HEX value of color
