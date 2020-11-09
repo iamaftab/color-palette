@@ -1,3 +1,5 @@
+<img align="center" src="./color-palette.jpg">
+
 <h1 align="center">Color Palette</h1>
 
 ---
@@ -8,7 +10,7 @@
    - [createmyElements(tagName, classes, id)](#createmyElement())
    - [color()](#color())
    - [colorGenerator()](#colorGenerator())
-   - [rgb2Hex(orig)](rgb2Hex())
+   - [rgb2Hex(orig)](#rgb2Hex())
 
 ## Functions details:
 ---
