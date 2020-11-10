@@ -11,11 +11,6 @@
 - This is a color picker or color palette generator using simple HTML, CSS & JavaScript.
 
 ---
-## List of Functions:
-   - [createmyElements(tagName, classes, id)](#createmyElement())
-   - [color()](#color())
-   - [colorGenerator()](#colorGenerator())
-   - [rgb2Hex(orig)](#rgb2Hex())
 
 ## List of Functions:
    - [createmyElements(tagName, classes, id)](#createmyElement)
@@ -25,7 +20,7 @@
 
 ## Functions details:
 
-## createmyElements() 
+- ## createmyElements() 
 
 ```javascript
   /**
@@ -43,7 +38,7 @@ function createmyElements(tagName, classes, id) {
 }
 ```
 
-## color()
+- ## color()
 
 ```javascript
 /**
@@ -61,7 +56,7 @@ function color() {
 }
 ```
 
-## colorGenerator()
+- ## colorGenerator()
 
 ```javascript
 /**
@@ -77,7 +72,7 @@ function colorGenerator() {
 }
 ```
 
-## rgb2Hex()
+- ## rgb2Hex()
 
 ```javascript
 /**
