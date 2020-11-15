@@ -4,7 +4,7 @@
 
 <h1 align="center">Color Palette</h1>
 
-[Live Website](https://iamaftabjamil.github.io/color-palette/)
+[Live Website](https://iamaftab.github.io/color-palette/)
 
 ---
 
